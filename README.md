@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SoftChunck
-- 👀 I’m interested in Desktop application development and Game Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Web Development and Game Development
 - 📫 Whatsapp: +923125964926
 
 <!---
